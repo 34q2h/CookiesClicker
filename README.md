@@ -16,7 +16,7 @@ Clean arch, MVP (passive view)
 
 ## Setup editor
 
-First you need to create an Firebase application and add RealtimeDatabase.
-Download and import Firebase SDK.
-Next download config and replace Assets/StreamingAssets/google-services.json
-After that enable EnhancedTouchSupport in Unity editor menu Windows -> Analysis -> Input Debugger -> Options -> Simulate Touch Input From Mouse or Pen
+- First you need to create an Firebase application and add RealtimeDatabase
+- Download and import Firebase SDK
+- Next download config and replace Assets/StreamingAssets/google-services.json
+- After that enable EnhancedTouchSupport in Unity editor menu Windows -> Analysis -> Input Debugger -> Options -> Simulate Touch Input From Mouse or Pen
